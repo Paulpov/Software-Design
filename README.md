@@ -5,5 +5,5 @@ Name - Jhonatan Lucas Popov Paul
 
 Subject - Design de Software
 
-[Default Links](https://www.google.com)
+For more information, see the [contributor guide index](https://github.com/Paulpov).
 
