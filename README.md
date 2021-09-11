@@ -7,3 +7,5 @@ Subject - Design de Software
 
 For more information, see the [contributor guide index](https://github.com/Paulpov).
 
+[LinkedIn](https://www.linkedin.com/in/jhonatan-lucas-20315414a/)
+
