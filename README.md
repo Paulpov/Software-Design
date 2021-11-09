@@ -12,7 +12,7 @@ Subject - Design de Software.
 5 - [Composite](https://github.com/Paulpov/Software-Design/tree/main/src/Composite)<br />
 6 - [Observer](https://github.com/Paulpov/Software-Design/tree/main/src/Observer)<br />
 7 - [Visitor](https://github.com/Paulpov/Software-Design/tree/main/src/Visitor)<br />
-8 - [Chain_of_Responsability](https://github.com/Paulpov/Software-Design/tree/main/src/Chain of Responsability)<br />
+8 - [A](https://github.com/Paulpov/Software-Design/tree/main/src/Chain of Responsability)<br />
 
 For more information, see the [contributor guide index](https://github.com/Paulpov).
 
