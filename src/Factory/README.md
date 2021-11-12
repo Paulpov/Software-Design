@@ -1,1 +1,3 @@
+## Factory Method
+<hr/>
 
